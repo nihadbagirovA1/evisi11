@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.Form1.resources
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.AssemblyInfo.cs
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BombaPisik\BombaPisik\bin\Debug\net8.0-windows\BombaPisik.exe
+C:\Users\user\source\repos\BombaPisik\BombaPisik\bin\Debug\net8.0-windows\BombaPisik.deps.json
+C:\Users\user\source\repos\BombaPisik\BombaPisik\bin\Debug\net8.0-windows\BombaPisik.runtimeconfig.json
+C:\Users\user\source\repos\BombaPisik\BombaPisik\bin\Debug\net8.0-windows\BombaPisik.dll
+C:\Users\user\source\repos\BombaPisik\BombaPisik\bin\Debug\net8.0-windows\BombaPisik.pdb
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.Properties.Resources.resources
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.dll
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\refint\BombaPisik.dll
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.pdb
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\BombaPisik.genruntimeconfig.cache
+C:\Users\user\source\repos\BombaPisik\BombaPisik\obj\Debug\net8.0-windows\ref\BombaPisik.dll
